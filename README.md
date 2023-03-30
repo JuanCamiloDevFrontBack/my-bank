@@ -2,7 +2,7 @@
 
 <!-- Compartir por este medio, imagen del proyecto, descripción del mismo y scripts de base de datos.
 
-Nota: para agregar Imagenes al readme se debe ubicar la opción de Issues´en github, allí se crea uno nuevo, y se pega la imagen o icono del computador al estacio de texto, seguidamente se copia la lía que se genero y esa última agregandola al presente archivo. --->
+Nota: para agregar Imagenes al readme se debe ubicar la opción de Issues´en github, allí se crea uno nuevo, y se pega la imagen o icono del computador al estacio de texto, seguidamente se copia la lía que se genero y esa última agregandola al presente archivo.  --->
 
 # Aspectos Generales del Proyecto
 ## Descripción:
